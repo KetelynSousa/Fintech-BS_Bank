@@ -1,0 +1,8 @@
+@font-face {
+  font-family: texto;
+  src: url(../src/Fonts/Montserrat/Montserrat-VariableFont_wght.ttf);
+}
+
+.App {
+  text-align: center;
+}

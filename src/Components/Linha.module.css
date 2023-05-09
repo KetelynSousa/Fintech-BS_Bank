@@ -1,0 +1,8 @@
+#linha {
+    width: 100%;
+    height: 250px;
+    background-image: url(../imagens/Line.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
